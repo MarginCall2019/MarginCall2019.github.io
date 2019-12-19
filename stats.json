@@ -1,0 +1,76 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-ffbd14007f72b20699f2.js",
+      "component---src-pages-index-js-ffbd14007f72b20699f2.js.map"
+    ],
+    "path---": [
+      "path----534b68fa2794eeb2b170.js",
+      "path----534b68fa2794eeb2b170.js.map"
+    ],
+    "component---src-layouts-skill-js": [
+      "component---src-layouts-skill-js-02bd8b2c73dff832346c.js",
+      "component---src-layouts-skill-js-02bd8b2c73dff832346c.js.map"
+    ],
+    "component---src-layouts-portfolio-js": [
+      "component---src-layouts-portfolio-js-53c4af16c8f82e3ecec5.js",
+      "component---src-layouts-portfolio-js-53c4af16c8f82e3ecec5.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-d7dfcccaba9cea7a8969.js",
+      "component---src-layouts-index-js-d7dfcccaba9cea7a8969.js.map"
+    ],
+    "path---design": [
+      "path---design-f38dd8eb11b0c8209baa.js",
+      "path---design-f38dd8eb11b0c8209baa.js.map"
+    ],
+    "path---index": [
+      "path---index-61967189ee61c9c244f6.js",
+      "path---index-61967189ee61c9c244f6.js.map"
+    ],
+    "path---code": [
+      "path---code-e55b30dda4c5ea769c02.js",
+      "path---code-e55b30dda4c5ea769c02.js.map"
+    ],
+    "path---cloud": [
+      "path---cloud-fddbd6e26198f95533bd.js",
+      "path---cloud-fddbd6e26198f95533bd.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-0bec4f9386e4c1d060e9.js",
+      "build-js-styles.css",
+      "commons-0bec4f9386e4c1d060e9.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---iot": [
+      "path---iot-a27c01754dbe2b268d3e.js",
+      "path---iot-a27c01754dbe2b268d3e.js.map"
+    ],
+    "path---portfolio": [
+      "path---portfolio-d08efbd8fca988667dbe.js",
+      "path---portfolio-d08efbd8fca988667dbe.js.map"
+    ],
+    "app": [
+      "app-18691a472afdcb903e9b.js",
+      "build-js-styles.css",
+      "app-18691a472afdcb903e9b.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about": [
+      "path---about-5e1d8edc9e415898336d.js",
+      "path---about-5e1d8edc9e415898336d.js.map"
+    ]
+  }
+}

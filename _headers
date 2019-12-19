@@ -1,0 +1,62 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/iot
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---iot-a27c01754dbe2b268d3e.js>; rel=preload; as=script
+  Link: </component---src-layouts-skill-js-02bd8b2c73dff832346c.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
+/about
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---about-5e1d8edc9e415898336d.js>; rel=preload; as=script
+  Link: </component---src-layouts-skill-js-02bd8b2c73dff832346c.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
+/code
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---code-e55b30dda4c5ea769c02.js>; rel=preload; as=script
+  Link: </component---src-layouts-skill-js-02bd8b2c73dff832346c.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
+/cloud
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---cloud-fddbd6e26198f95533bd.js>; rel=preload; as=script
+  Link: </component---src-layouts-skill-js-02bd8b2c73dff832346c.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
+/portfolio
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---portfolio-d08efbd8fca988667dbe.js>; rel=preload; as=script
+  Link: </component---src-layouts-portfolio-js-53c4af16c8f82e3ecec5.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
+/design
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---design-f38dd8eb11b0c8209baa.js>; rel=preload; as=script
+  Link: </component---src-layouts-skill-js-02bd8b2c73dff832346c.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
+/404/
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---404-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-4503918ea3a16cfcdb75.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
+/
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---index-61967189ee61c9c244f6.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-ffbd14007f72b20699f2.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
+/404.html
+  Link: </commons-0bec4f9386e4c1d060e9.js>; rel=preload; as=script
+  Link: </app-18691a472afdcb903e9b.js>; rel=preload; as=script
+  Link: </path---404-html-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-4503918ea3a16cfcdb75.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-d7dfcccaba9cea7a8969.js>; rel=preload; as=script
