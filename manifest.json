@@ -1,6 +1,7 @@
 {
+  "favicons/favicon.png": "favicons/.cache",
   "main.css": "styles.css",
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/background-wood.jpg": "static/background-wood.59e3670c.jpg"
+  "static/background-wood.jpg": "static/background-wood.48274c2f.jpg"
 }
